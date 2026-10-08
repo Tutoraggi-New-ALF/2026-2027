@@ -10,7 +10,13 @@ Tutoraggio del corso di [Automi e Linguaggi Formali](https://unica.coursecatalog
 - Tutor Giulio Casti
 
 
+<!-- New section -->
 
+## Ready-to-use Notebooks
+
+| Notebook    | Binder  | Google Colab |
+|--------------------------------|-------------------------------------------|-------------------------|
+| 1-Alberi Decisionali  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tutoraggi-New-ALF/2026-2027/HEAD?filepath=Lezioni%2F1_AlberiDecisionali%2FEsercitazione_1_new_ALF.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tutoraggi-New-ALF/2026-2027/blob/main/Lezioni/1_AlberiDecisionali/Esercitazione_1_new_ALF.ipynb) |
 
 
 <!-- New section -->
