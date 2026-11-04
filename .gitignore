@@ -1,0 +1,5 @@
+bozze/
+
+*.md
+
+!README.md
